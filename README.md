@@ -23,9 +23,9 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Ads.txt Validator</h3>
-      <p>A specialized tool for checking the validity of <b>Ads.txt</b> and <b>App-ads.txt</b> lines, ensuring compliance with IAB standards.</p>
+      <p>A specialized utility for maintaining <b>ads.txt</b> and <b>app-ads.txt</b> health. Implements asynchronous validation to detect syntax errors and missing lines. Ensures strict compliance with <b>IAB standards</b> by verifying authorized digital sellers and reducing revenue loss due to misconfiguration.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/AdTech-FF6F00?style=flat-square" />
       </p>
       <p align="center">
@@ -34,10 +34,10 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Sellers.json Checker</h3>
-      <p>Advanced validator for <b>sellers.json</b> and supply chain transparency. Helps verify authorized digital sellers across platforms.</p>
+      <p>Advanced <b>Chrome Extension (Manifest V3)</b> for AdTech transparency. Automates <b>sellers.json</b> validation against ads.txt lines with intelligent caching strategies. Features <b>OWNERDOMAIN</b> verification, supply chain object matching, and real-time status badges.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-44CC11?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chrome_Ext-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker">View on GitHub →</a>
@@ -45,10 +45,10 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">AppID Extractor</h3>
-      <p>Efficient parser for <b>App Discovery</b>. Automates the extraction of AppIDs and metadata for market research and analysis.</p>
+      <p>Robust AI-ready <b>Streamlit</b> web application for automated market research. Parses <b>Google Play & App Store</b> IDs from raw HTML or live URLs using advanced Regex. Features multi-language support <b>(EN, UA, ES, etc.)</b>, batch processing, and instant .txt export for analysis.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Parsing-0052CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/OstinUA/App-Discovery-Parser-AppID-Extractor">View on GitHub →</a>
