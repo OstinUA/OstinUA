@@ -1,9 +1,9 @@
 ### **Database Reliability Engineer (DBRE) | Programmatic support**
 - Ensuring database reliability, high availability, and performance scaling.
 - Implementing advanced monitoring, query optimization, and disaster recovery strategies.
+- Developing automated bots for instant alerts, reporting, and operational notifications.
 - Specializing in ad tech automation and inventory validation data pipelines.
 - Developing custom tools for **ads.txt/app-ads.txt** and **sellers.json** verification to streamline operations.
--  Developing automated bots for instant alerts, reporting, and operational notifications.
 
 ## Tech Stack & Tools
 
