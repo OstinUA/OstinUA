@@ -1,4 +1,4 @@
-- **Programmatic Ad Ops Support**
+- **Chief Automation Officer**
 - Specializing in ad tech automation and inventory validation.
 - Developing custom tools for **ads.txt/app-ads.txt** and **sellers.json** verification to streamline operations.
 
