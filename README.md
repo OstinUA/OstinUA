@@ -1,4 +1,4 @@
-### **Database Reliability Engineer (DBRE) | Programmatic support**
+### **Database Reliability Engineer (DBRE)**
 - Ensuring database reliability, high availability, and performance scaling.
 - Implementing advanced monitoring, query optimization, and disaster recovery strategies.
 - Developing automated bots for instant alerts, reporting, and operational notifications.
