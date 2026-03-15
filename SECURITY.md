@@ -1,1 +1,1 @@
-test
+SECURITY.md
