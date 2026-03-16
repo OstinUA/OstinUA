@@ -16,18 +16,7 @@
 
 ---
 
-<table>
-  <thead>
-    <tr>
-      <th>
-        <img src="https://readme-svg-profile-bento.vercel.app/api/card?user=OstinUA&badge=1" width="495" alt="GitHub Stats"/>
-      </th>
-      <th>
-        <img src="https://readme-svg-profile-bento.vercel.app/api/card?user=OstinUA&badge=2" width="495" alt="GitHub Stats"/>
-      </th>
-    </tr>
-  </thead>
-</table>
+![GitHub Stats](https://readme-svg-profile-bento.vercel.app/api/card?user=OstinUA&badge=1) ![GitHub Stats](https://readme-svg-profile-bento.vercel.app/api/card?user=OstinUA&badge=2)
 
 <table>
   <tr>
