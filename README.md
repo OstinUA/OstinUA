@@ -21,7 +21,19 @@
 
 ---
 
-## Favorite Projects
+<table>
+  <thead>
+    <tr>
+      <th>
+        <img src="https://readme-svg-profile-bento.vercel.app/api/card?user=OstinUA" alt="GitHub Stats1">
+      </th>
+      <th>
+        <img src="https://readme-svg-profile-bento.vercel.app/api/card?user=OstinUA" alt="GitHub Stats2">
+      </th>
+    </tr>
+  </thead>
+</table>
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -59,5 +71,3 @@
     </td>
   </tr>
 </table>
-
-
