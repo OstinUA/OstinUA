@@ -14,11 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Contact Information
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-liashenko-ua/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ostinostin23@gmail.com)
-
 ---
 
 <table>
