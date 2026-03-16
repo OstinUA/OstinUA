@@ -66,4 +66,4 @@
   </tr>
 </table>
 
-![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=55&amplitude=11&frequency=3&layers=1&color_top=000000&color_bottom=3d444d&opacity=1&flip=true&gradient=false&mirror=true&animate=true&speed=13&text=&text_bottom=I%E2%80%99ve+got+a+lot+of+cool+projects.+Hit+follow+if+you%E2%80%99re+into+it.&text_color=ffffff&text_bottom_color=ffffff&text_size=0&text_bottom_size=22&text_style=normal&text_stroke_color=0d1117&text_stroke_width=0&text_scale_x=100&text_scale_y=100&text_x=50&text_y=0&text_gap=26&text_align=middle)
+![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=55&amplitude=11&frequency=3&layers=1&color_top=000000&color_bottom=3d444d&opacity=1&flip=true&gradient=false&mirror=true&animate=true&speed=13&text=&text_bottom=I%E2%80%99ve+got+a+lot+of+cool+projects.+Hit+follow+if+you%E2%80%99re+into+it.&text_color=ffffff&text_bottom_color=ffffff&text_size=0&text_bottom_size=22&text_style=normal&text_stroke_color=0d1117&text_stroke_width=11&text_scale_x=100&text_scale_y=100&text_x=50&text_y=0&text_gap=26&text_align=middle)
