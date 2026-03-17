@@ -1,20 +1,62 @@
-### :octocat: **Database Reliability Engineer (DBRE)**
-- Ensuring database reliability, high availability, and performance scaling.
-- Implementing advanced monitoring, query optimization, and disaster recovery strategies.
-- Developing automated bots for instant alerts, reporting, and operational notifications.
-- Specializing in ad tech automation and inventory validation data pipelines.
-- Developing custom tools for **ads.txt/app-ads.txt** and **sellers.json** verification to streamline operations.
+<table>
+  <tr>
+    <td valign="top">
+        <h3>
+         :octocat: Database Workflow Automation & Alerting Builder
+          <hr>
+        </h3>
+        <li><strong>Database Reliability:</strong> Ensuring high availability, fault tolerance, and performance scaling for mission-critical systems.</li>
+        <li><strong>Keeping an Eye on Things:</strong> Setting up monitoring to catch issues early and having backup plans if something goes wrong.</li>
+        <li><strong>Automation:</strong> Developing bots and custom tooling for proactive alerting, reporting, and reducing operational toil.</li>
+        <li><strong>Data Pipelines:</strong> Moving and sorting out large amounts of data, mostly for ad tech projects.</li>
+        <li><strong>Ecosystem Compliance:</strong> Engineering automated verification solutions for <code>ads.txt</code>, <code>app-ads.txt</code>, and <code>sellers.json</code>.</li>
+      </ul><br>
+<a href="https://www.linkedin.com/in/andrii-liashenko-ua/"> <img src="https://img.shields.io/badge/LinkedIn-3f88e6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/FCTostin"> <img src="https://img.shields.io/badge/Telegram-3f88e6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.youtube.com/@FCT-Ostin"> <img src="https://img.shields.io/badge/YouTube-3f88e6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    </td>
+    <td align="center" valign="top" width="200">
+<!-- GIF -->
+<img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif" width="300" alt="Coding GIF" />
+<br></br>
 
-## Tech Stack & Tools
+<!-- Languages -->
+<img src="https://img.shields.io/badge/JavaScript-3f88e6?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3f88e6?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-3f88e6?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-3f88e6?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-3f88e6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Apps_Script-3f88e6?style=for-the-badge&logo=google&logoColor=white" />
 
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
----
+<!-- Tools & Platforms 
+<img src="https://img.shields.io/badge/Chrome_Extension_MV3-3f88e6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-3f88e6?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-3f88e6?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-3f88e6?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Pages-3f88e6?style=for-the-badge&logo=githubpages&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-3f88e6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br>-->
+
+<!-- AdTech / Domain
+<img src="https://img.shields.io/badge/AdTech-3f88e6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ads.txt_/_app--ads.txt-3f88e6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/sellers.json-3f88e6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/IAB_Standards-3f88e6?style=for-the-badge&logoColor=white" />
+
+<br>
+
+<!-- AI / Automation
+<img src="https://img.shields.io/badge/Gemini_API-3f88e6?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-3f88e6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_API-3f88e6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram_Bot_API-3f88e6?style=for-the-badge&logo=telegram&logoColor=white" />
+    </td>-->
+	
+  </tr>
+</table>
 
 <table>
   <thead>
@@ -65,5 +107,3 @@
     </td>
   </tr>
 </table>
-
-![Wave divider](https://readme-svg-wave-divider-generator.vercel.app/wave?type=sine&width=1200&height=55&amplitude=11&frequency=3&layers=1&color_top=000000&color_bottom=3d444d&opacity=1&flip=true&gradient=false&mirror=true&animate=true&speed=13&text=&text_bottom=I%E2%80%99ve+got+a+lot+of+cool+projects.+Hit+follow+if+you%E2%80%99re+into+it.&text_color=ffffff&text_bottom_color=ffffff&text_size=0&text_bottom_size=22&text_style=normal&text_stroke_color=0d1117&text_stroke_width=11&text_scale_x=100&text_scale_y=100&text_x=50&text_y=0&text_gap=26&text_align=middle)
