@@ -5,9 +5,9 @@
          :octocat: Database Workflow Automation & Alerting Builder
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3e80ed&height=2&width=100%" />
         </h3>
-        <li><strong>LLM Database Reliability:</strong> Ensuring high availability, fault tolerance, and performance scaling for Vector Databases (Milvus, Pinecone, Weaviate) and mission-critical relational systems.</li>
+        <li><strong>LLM Database Reliability:</strong> Scaling and securing Vector and relational databases for high availability and performance.</li>
         <li><strong>Keeping an Eye on Things:</strong> Setting up monitoring to catch issues early and having backup plans if something goes wrong.</li>
-        <li><strong>DB Automation & Tooling: </strong> Developing custom bots and proactive alerting systems to automate database sharding, indexing, and health checks, significantly reducing operational toil..</li>
+        <li><strong>DB Automation & Tooling: </strong> Developing custom tooling and alerts to automate sharding, indexing, and health checks, minimizing operational toil.</li>
         <li><strong>Data Pipelines:</strong> Moving and sorting out large amounts of data, mostly for ad tech projects.</li>
         <li><strong>Ecosystem Compliance:</strong> Engineering automated verification solutions for <code>ads.txt</code>, <code>app-ads.txt</code>, and <code>sellers.json</code>.</li>
       </ul><br>
