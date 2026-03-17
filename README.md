@@ -20,14 +20,18 @@
 
 <!-- Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-3f88e6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3f88e6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-3f88e6?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-3f88e6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-3f88e6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-3f88e6?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_Extension-3f88e6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-3f88e6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3e80ed?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3e80ed?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3e80ed?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-3e80ed?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-3e80ed?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-3e80ed?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_Extension-3e80ed?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3e80ed?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-3e80ed?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-3e80ed?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAB_Standards-3e80ed?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_API-3e80ed?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 	
 
