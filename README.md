@@ -11,52 +11,26 @@
         <li><strong>Data Pipelines:</strong> Moving and sorting out large amounts of data, mostly for ad tech projects.</li>
         <li><strong>Ecosystem Compliance:</strong> Engineering automated verification solutions for <code>ads.txt</code>, <code>app-ads.txt</code>, and <code>sellers.json</code>.</li>
       </ul><br>
-<a href="https://www.linkedin.com/in/andrii-liashenko-ua/"> <img src="https://img.shields.io/badge/LinkedIn-3f88e6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/FCTostin"> <img src="https://img.shields.io/badge/Telegram-3f88e6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.youtube.com/@FCT-Ostin"> <img src="https://img.shields.io/badge/YouTube-3f88e6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     </td>
-    <td align="center" valign="top" width="200">
+    <td align="center" width="200">
 <!-- GIF -->
 <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif" width="300" alt="Coding GIF" />
-<br></br>
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/JavaScript-3f88e6?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3f88e6?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-3f88e6?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-3f88e6?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-3f88e6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Apps_Script-3f88e6?style=for-the-badge&logo=google&logoColor=white" />
-
-<br>
-
-<!-- Tools & Platforms 
-<img src="https://img.shields.io/badge/Chrome_Extension_MV3-3f88e6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-3f88e6?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-3f88e6?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-3f88e6?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Pages-3f88e6?style=for-the-badge&logo=githubpages&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-3f88e6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<br>-->
-
-<!-- AdTech / Domain
-<img src="https://img.shields.io/badge/AdTech-3f88e6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ads.txt_/_app--ads.txt-3f88e6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/sellers.json-3f88e6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/IAB_Standards-3f88e6?style=for-the-badge&logoColor=white" />
-
-<br>
-
-<!-- AI / Automation
-<img src="https://img.shields.io/badge/Gemini_API-3f88e6?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-3f88e6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_API-3f88e6?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram_Bot_API-3f88e6?style=for-the-badge&logo=telegram&logoColor=white" />
-    </td>-->
-	
   </tr>
 </table>
+
+<!-- Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-3f88e6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3f88e6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3f88e6?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-3f88e6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-3f88e6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-3f88e6?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome_Extension-3f88e6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3f88e6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+	
+
 
 <table>
   <thead>
