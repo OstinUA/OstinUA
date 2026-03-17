@@ -3,7 +3,7 @@
     <td valign="top">
         <h3>
          :octocat: Database Workflow Automation & Alerting Builder
-          <hr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3e80ed&height=2&width=100%" />
         </h3>
         <li><strong>LLM Database Reliability:</strong> Ensuring high availability, fault tolerance, and performance scaling for Vector Databases (Milvus, Pinecone, Weaviate) and mission-critical relational systems.</li>
         <li><strong>Keeping an Eye on Things:</strong> Setting up monitoring to catch issues early and having backup plans if something goes wrong.</li>
@@ -85,3 +85,5 @@
     </td>
   </tr>
 </table>
+
+
