@@ -35,9 +35,15 @@
   <img src="https://img.shields.io/badge/IAB_Standards-3e80ed?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_API-3e80ed?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-	
-[![Heroes Board](https://issues-heroes-badge.vercel.app/api?user=readme-SVG&repo=Issues-heroes-badge)](https://github.com/readme-SVG/Issues-heroes-badge)
 
+<!-- Issues-badge -->
+<p align="center">
+  <a href="https://github.com/readme-SVG/Issues-heroes-badge">
+    <img src="https://issues-heroes-badge.vercel.app/api?user=readme-SVG&repo=Issues-heroes-badge" alt="Heroes Board">
+  </a>
+</p>
+
+<!-- Bengo -->
 <table>
   <thead>
     <tr>
@@ -55,6 +61,7 @@
   </thead>
 </table>
 
+<!-- Teble -->
 <table>
   <tr>
     <td width="33%" valign="top">
