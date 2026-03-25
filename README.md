@@ -22,18 +22,53 @@
 
 <!-- Badge -->
 <p align="center">
+<a href="https://github.com/OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-3e80ed?style=for-the-badge&logo=javascript&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/Python-3e80ed?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Revenue-Recon-Ad-Discrepancy-Monitor" target="_blank">
   <img src="https://img.shields.io/badge/SQL-3e80ed?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-3e80ed?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-3e80ed?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/Google_Apps_Script-3e80ed?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/Chrome_Extension-3e80ed?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-3e80ed?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/GitHub_Actions-3e80ed?style=for-the-badge&logo=github-actions&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/Vercel-3e80ed?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/IAB_Standards-3e80ed?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://github.com/OstinUA/Failed-Recipient-Extractor-Bounce-Mail" target="_blank">
   <img src="https://img.shields.io/badge/GitHub_API-3e80ed?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 <!-- Issues-badge -->
