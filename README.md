@@ -14,7 +14,9 @@
     </td>
     <td align="center" width="200">
 <!-- GIF -->
-<img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif" width="300" alt="Coding GIF" />
+<a href="https://github.com/readme-SVG/ascii-text-generator">
+  <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif" width="300" alt="Coding GIF" />
+</a>
   </tr>
 </table>
 
@@ -34,20 +36,25 @@
   <img src="https://img.shields.io/badge/GitHub_API-3e80ed?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 	
-
+[![Heroes Board](https://issues-heroes-badge.vercel.app/api?user=readme-SVG&repo=Issues-heroes-badge)](https://github.com/readme-SVG/Issues-heroes-badge)
 
 <table>
   <thead>
     <tr>
       <th>
-        <img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=OstinUA&badge=1" width="495" alt="GitHub Stats"/>
+        <a href="https://github.com/readme-SVG/readme-SVG-profile-bengo">
+          <img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=OstinUA&badge=1" width="495" alt="GitHub Stats"/>
+        </a>
       </th>
       <th>
-        <img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=OstinUA&badge=2" width="495" alt="GitHub Stats"/>
+        <a href="https://github.com/readme-SVG/readme-SVG-profile-bengo">
+          <img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=OstinUA&badge=2" width="495" alt="GitHub Stats"/>
+        </a>
       </th>
     </tr>
   </thead>
 </table>
+
 <table>
   <tr>
     <td width="33%" valign="top">
