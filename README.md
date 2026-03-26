@@ -17,6 +17,7 @@
 <a href="https://github.com/readme-SVG/ascii-text-generator">
   <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif" width="300" alt="Coding GIF" "/>
 </a>
+      
   </tr>
 </table>
 
