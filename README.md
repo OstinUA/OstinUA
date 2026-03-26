@@ -12,10 +12,10 @@
         <li><strong>Ecosystem Compliance:</strong> Engineering automated verification solutions for <code>ads.txt</code>, <code>app-ads.txt</code>, and <code>sellers.json</code>.</li>
       </ul><br>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="350">
 <!-- GIF -->
 <a href="https://github.com/readme-SVG/ascii-text-generator">
-  <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif" width="300" alt="Coding GIF" "/>
+  <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_Donut_CSS_Animated.svg"/>
 </a>
       
   </tr>
