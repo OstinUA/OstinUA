@@ -17,6 +17,8 @@
 <a href="https://github.com/readme-SVG/ascii-text-generator">
   <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif"/>
 </a>
+  </tr>
+</table>
 
 <!-- GIF/SVG -->
 
@@ -31,9 +33,6 @@
 </a>
 
 -->
-      
-  </tr>
-</table>
 
 <!-- Badge -->
 <p align="center">
@@ -84,6 +83,11 @@
 <a href="https://github.com/readme-SVG/Issues-heroes-badge" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub_API-3e80ed?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://ostinua.github.io/OstinUA/">
+  <img src="https://img.shields.io/badge/Profile_Views-%31&#56;%33-3e80ed?style=for-the-badge" />
+</a>
+
 </p>
 
 <!-- Issues-badge -->
