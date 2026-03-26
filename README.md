@@ -13,10 +13,24 @@
       </ul><br>
     </td>
     <td align="center" width="350">
-<!-- GIF -->
+<!-- img src -->
+<a href="https://github.com/readme-SVG/ascii-text-generator">
+  <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif"/>
+</a>
+
+<!-- GIF/SVG -->
+
+ <!--
+ 
+<a href="https://github.com/readme-SVG/ascii-text-generator">
+  <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_github_readme_v7.gif"/>
+</a>
+
 <a href="https://github.com/readme-SVG/ascii-text-generator">
   <img src="https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_Donut_CSS_Animated.svg"/>
 </a>
+
+-->
       
   </tr>
 </table>
@@ -83,7 +97,7 @@
 <table>
   <thead>
     <tr>
-      <th>
+      <th >
         <a href="https://github.com/readme-SVG/readme-SVG-profile-bengo">
           <img src="https://readme-svg-profile-bengo.vercel.app/api/card?user=OstinUA&badge=1" width="495" alt="GitHub Stats"/>
         </a>
@@ -100,7 +114,7 @@
 <!-- Teble -->
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" >
       <h3 align="center">Ads.txt Validator</h3>
       <p>A specialized utility for maintaining <b>ads.txt</b> and <b>app-ads.txt</b> health. Implements asynchronous validation to detect syntax errors and missing lines. Ensures strict compliance with <b>IAB standards</b> by verifying authorized digital sellers and reducing revenue loss due to misconfiguration.</p>
       <p align="center">
