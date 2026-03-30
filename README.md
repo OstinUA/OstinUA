@@ -119,14 +119,14 @@
 <table>
   <tr>
     <td width="33%" valign="top" >
-      <h3 align="center">Ads.txt Validator</h3>
+      <h3 align="center">Inventory Auth Auditor</h3>
       <p>A specialized utility for maintaining <b>ads.txt</b> and <b>app-ads.txt</b> health. Implements asynchronous validation to detect syntax errors and missing lines. Ensures strict compliance with <b>IAB standards</b> by verifying authorized digital sellers and reducing revenue loss due to misconfiguration.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/AdTech-FF6F00?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/OstinUA/Ads.txt-App-ads.txt-line-Valid-checker">View on GitHub →</a>
+        <a href="https://github.com/OstinUA/Inventory-Auth-Auditor">View on GitHub →</a>
       </p>
     </td>
     <td width="33%" valign="top">
