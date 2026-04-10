@@ -16,7 +16,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
         run: |
-          gh repo list --limit 1000 --json fullName --template '{{range .}}{{ .fullName }}{{"\n"}}{{end}}' > REPOSITORYLIST.md
+          gh repo list --limit 1000 --json nameWithOwner --template '{{range .}}{{ .nameWithOwner }}{{"\n"}}{{end}}' > REPOSITORYLIST.md
 
       - name: Commit and push changes
         run: |
