@@ -1,4 +1,4 @@
-name: Update Repository List
+name: Repository List
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
         run: |
-          gh api user/repos --paginate -q '.[] | "\(.owner.login)\t\(.name)\t\(.created_at)"' | \
+          gh api user/repos --paginate -q '.[] | select(.name != ".github") | "\(.owner.login)\t\(.name)\t\(.created_at)"' | \
           sort -k1,1 -k3,3 | \
           awk -F'\t' '{
             if (prev != "" && prev != $1) print "";
