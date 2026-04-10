@@ -14,11 +14,11 @@ jobs:
         with:
           token: ${{ secrets.MY_GH_TOKEN }}
 
-      - name: Fetch and format repository list
+      - name: Fetch all repositories
         env:
           GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
         run: |
-          gh repo list --limit 1000 --json nameWithOwner --template '{{range .}}{{ .nameWithOwner }}{{"\n"}}{{end}}' > REPOSITORYLIST.md
+          gh api user/repos --paginate -q '.[].full_name' | sort > REPOSITORYLIST.md
 
       - name: Commit and push changes
         run: |
