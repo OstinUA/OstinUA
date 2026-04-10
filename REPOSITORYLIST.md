@@ -9,7 +9,6 @@ FCTostin-team/blueprint-text_formatter
 FCTostin-team/blueprints-decoder_encoder
 FCTostin-team/blueprints-book-rich_text
 FCTostin-team/blueprint-code_compression
-FCTostin-team/.github
 FCTostin-team/Discussions-FCTteam
 
 OstinUA/noise_at_night
@@ -63,7 +62,6 @@ adops-tool/replit-Site-Detector
 adops-tool/replit-Play-Store-Parser
 adops-tool/replit-Ad-File-Checker
 adops-tool/replit-Google-Play-Store-Scraper-v5
-adops-tool/.github
 adops-tool/Spreadsheets-SRM
 adops-tool/Spreadsheets-Templates
 adops-tool/LeadSniffer-SRM
@@ -81,7 +79,6 @@ assembly-automation-hub/Push-issues-github-actions-gemeniAI
 assembly-automation-hub/Issues-github-actions-gemeniAI
 assembly-automation-hub/Issues-github-actions-Llama
 assembly-automation-hub/Issues-github-actions-GPT-4o
-assembly-automation-hub/.github
 assembly-automation-hub/wiki-analysis-gemeniAI
 assembly-automation-hub/repo-governance
 assembly-automation-hub/autoAI-gist-creator
@@ -90,7 +87,6 @@ assembly-automation-hub/test-Repo-Governance
 
 readme-SVG/readme-badges
 readme-SVG/readme-SVG-typing-generator
-readme-SVG/.github
 readme-SVG/readme-SVG-youtube-preview
 readme-SVG/repo-promotion-guide
 readme-SVG/readme-SVG-TUTOR
