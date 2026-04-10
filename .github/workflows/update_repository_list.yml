@@ -1,0 +1,31 @@
+name: Update Repository List
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and format repository list
+        env:
+          GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
+        run: |
+          gh repo list --limit 1000 --json fullName --template '{{range .}}{{ .fullName }}{{"\n"}}{{end}}' > REPOSITORYLIST.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add REPOSITORYLIST.md
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes in repository list."
+          else
+            git commit -m "Auto-update repository list"
+            git push
+          fi
