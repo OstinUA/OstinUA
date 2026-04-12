@@ -9,7 +9,6 @@ FCTostin-team/blueprint-text_formatter
 FCTostin-team/blueprints-decoder_encoder
 FCTostin-team/blueprints-book-rich_text
 FCTostin-team/blueprint-code_compression
-FCTostin-team/Discussions-FCTteam
 
 OstinUA/noise_at_night
 OstinUA/Ads.txt-App-ads.txt-line-Checker
@@ -82,14 +81,12 @@ assembly-automation-hub/Issues-github-actions-GPT-4o
 assembly-automation-hub/wiki-analysis-gemeniAI
 assembly-automation-hub/repo-governance
 assembly-automation-hub/autoAI-gist-creator
-assembly-automation-hub/auto-write-changelog.md
-assembly-automation-hub/test-Repo-Governance
+assembly-automation-hub/Automated-Task-Runner
 
 readme-SVG/readme-badges
 readme-SVG/readme-SVG-typing-generator
 readme-SVG/readme-SVG-youtube-preview
 readme-SVG/repo-promotion-guide
-readme-SVG/readme-SVG-TUTOR
 readme-SVG/readme-SVG-wave-divider-generator
 readme-SVG/readme-SVG-custom-badge-generator
 readme-SVG/readme-SVG-profile-bengo
@@ -105,4 +102,4 @@ readme-SVG/readme-SVG-site-preview
 readme-SVG/awesome-readme
 readme-SVG/readme-pr-svg-generator
 readme-SVG/readme-PR-contributors-rating
-readme-SVG/Automated-Task-Runner-JS
+readme-SVG/github-profile-readme-generator
