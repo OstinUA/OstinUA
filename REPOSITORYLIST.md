@@ -45,6 +45,7 @@ OstinUA/research-sites
 OstinUA/Traffic-Stats-Analyzer
 OstinUA/AdVerify-adstxt-appadstxt-Crawler
 OstinUA/Google-Play-Store-Scraper
+OstinUA/ad-network-monitor
 
 TempFolder/LinkedInAI
 TempFolder/SiteAI
