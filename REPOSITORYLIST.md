@@ -25,7 +25,6 @@ OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker
 OstinUA/VAST-Tag-Inspector-Player
 OstinUA/HTML-Email-parser
 OstinUA/Image-storage
-OstinUA/Google-Play-Store-Scraper
 OstinUA/Duck-Bob
 OstinUA/OstinUA
 OstinUA/Snov.io-addon_2
@@ -45,6 +44,7 @@ OstinUA/traffic_Similarweb-Insights
 OstinUA/research-sites
 OstinUA/Traffic-Stats-Analyzer
 OstinUA/AdVerify-adstxt-appadstxt-Crawler
+OstinUA/Google-Play-Store-Scraper
 
 TempFolder/LinkedInAI
 TempFolder/SiteAI
@@ -66,6 +66,7 @@ adops-tool/Spreadsheets-Templates
 adops-tool/LeadSniffer-SRM
 adops-tool/ads.txt-app-ads.txt-sellers.json-Lines-Checker
 adops-tool/https-tranco-list.eu
+adops-tool/awesome-lead-generation
 
 assembly-automation-hub/actions_Facotrio-Update-bot
 assembly-automation-hub/actions_Factorio-Blueprint2-bot
@@ -81,7 +82,8 @@ assembly-automation-hub/Issues-github-actions-GPT-4o
 assembly-automation-hub/wiki-analysis-gemeniAI
 assembly-automation-hub/repo-governance
 assembly-automation-hub/autoAI-gist-creator
-assembly-automation-hub/Automated-Task-Runner
+assembly-automation-hub/deploy-files-to-repositories
+assembly-automation-hub/GitHub-topic-popularity-Checker
 
 readme-SVG/readme-badges
 readme-SVG/readme-SVG-typing-generator
@@ -103,3 +105,4 @@ readme-SVG/awesome-readme
 readme-SVG/readme-pr-svg-generator
 readme-SVG/readme-PR-contributors-rating
 readme-SVG/github-profile-readme-generator
+readme-SVG/animated-line
