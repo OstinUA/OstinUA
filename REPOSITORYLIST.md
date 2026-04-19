@@ -1,4 +1,7 @@
 639231313917/584520722103
+639231313917/Agent-1_test
+639231313917/Agent-1_v1
+639231313917/Harvester_MVP
 
 FCTostin-team/solar-accumulator-calculator
 FCTostin-team/progress-bar_display-panel
@@ -30,7 +33,7 @@ OstinUA/OstinUA
 OstinUA/Snov.io-addon_2
 OstinUA/Snov.io-addon_1
 OstinUA/App-Finder-100k
-OstinUA/AdOps-X-Ray
+OstinUA/ad-inspector-devtools
 OstinUA/Game-Play-Search-Extractor
 OstinUA/Matcher-ads.txt-app-ads.txt
 OstinUA/Mass-Ads-Checker
@@ -46,6 +49,8 @@ OstinUA/Traffic-Stats-Analyzer
 OstinUA/AdVerify-adstxt-appadstxt-Crawler
 OstinUA/Google-Play-Store-Scraper
 OstinUA/ad-network-monitor
+OstinUA/bulk-domain-traffic-checker
+OstinUA/Chrome-Web-Store_Developer-List
 
 TempFolder/LinkedInAI
 TempFolder/SiteAI
