@@ -154,4 +154,6 @@
   </tr>
 </table>
 
+<!-- Fox-badge -->
+[![OstinUA 8bit](https://raw.githubusercontent.com/OstinUA/Image-storage/main/readme/OstinUA_8bit.gif)](https://github.com/OstinUA)
 
