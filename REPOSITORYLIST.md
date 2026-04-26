@@ -24,7 +24,7 @@ OstinUA/Ads.txt-Validator-Analyzer
 OstinUA/HAR-Ad-Latency-Analyzer
 OstinUA/Revenue-Recon-Ad-Discrepancy-Monitor
 OstinUA/App-Discovery-Parser-AppID-Extractor
-OstinUA/ads.txt-app-ads.txt-sellers.json-Lines-Checker
+OstinUA/adWMG-Checker-ads.txt-sellers.json
 OstinUA/VAST-Tag-Inspector-Player
 OstinUA/HTML-Email-parser
 OstinUA/Image-storage
@@ -33,8 +33,8 @@ OstinUA/OstinUA
 OstinUA/Snov.io-addon_2
 OstinUA/Snov.io-addon_1
 OstinUA/App-Finder-100k
-OstinUA/ad-inspector-devtools
-OstinUA/Game-Play-Search-Extractor
+OstinUA/programmatic-ad-scanner
+OstinUA/Game-Store-link-extractor
 OstinUA/Matcher-ads.txt-app-ads.txt
 OstinUA/Mass-Ads-Checker
 OstinUA/Mass-App-Ads-Checker
@@ -45,12 +45,14 @@ OstinUA/Mass-Ads-App-Ads-Checker
 OstinUA/Sellers.json-Inspector
 OstinUA/traffic_Similarweb-Insights
 OstinUA/research-sites
-OstinUA/Traffic-Stats-Analyzer
+OstinUA/web-traffic-analyzer
 OstinUA/AdVerify-adstxt-appadstxt-Crawler
 OstinUA/Google-Play-Store-Scraper
-OstinUA/ad-network-monitor
+OstinUA/ad-network-logger
 OstinUA/bulk-domain-traffic-checker
 OstinUA/Chrome-Web-Store_Developer-List
+OstinUA/multi-line-auto-typer
+OstinUA/Site-Analyzer
 
 TempFolder/LinkedInAI
 TempFolder/SiteAI
@@ -73,6 +75,8 @@ adops-tool/LeadSniffer-SRM
 adops-tool/ads.txt-app-ads.txt-sellers.json-Lines-Checker
 adops-tool/https-tranco-list.eu
 adops-tool/awesome-lead-generation
+adops-tool/LeadForge_MVP
+adops-tool/1241512515
 
 assembly-automation-hub/actions_Facotrio-Update-bot
 assembly-automation-hub/actions_Factorio-Blueprint2-bot
