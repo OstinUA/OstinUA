@@ -90,13 +90,6 @@
 
 </p>
 
-<!-- Issues-badge -->
-<p align="center">
-  <a href="https://github.com/readme-SVG/Issues-heroes-badge">
-    <img src="https://issues-heroes-badge.vercel.app/api?user=readme-SVG&repo=Issues-heroes-badge" alt="Heroes Board">
-  </a>
-</p>
-
 <!-- Bengo -->
 <table>
   <thead>
